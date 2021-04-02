@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (2021.02.08 функции.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  2021.02.08 function.cpp
+C:\Users\Student\Desktop\Карин Н.Н\2021.02.08 функции\2021.02.08 функции\2021.02.08 function.cpp(98,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2021.02.08 функции.vcxproj -> C:\Users\Student\Desktop\Карин Н.Н\2021.02.08 функции\Debug\2021.02.08 function.exe

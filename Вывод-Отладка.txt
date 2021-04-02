@@ -1,0 +1,20 @@
+﻿"2021.02.08 функции.exe" (Win32). Загружено "C:\Users\Student\Desktop\Карин Н.Н\2021.02.08 функции\Debug\2021.02.08 функции.exe". Символы загружены.
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0xc0c завершился с кодом 0 (0x0).
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"2021.02.08 функции.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+Поток 0x17d4 завершился с кодом 0 (0x0).
+Поток 0x2104 завершился с кодом 0 (0x0).
+Поток 0x36a0 завершился с кодом 0 (0x0).
+Поток 0x1dc8 завершился с кодом 0 (0x0).
+Программа "[13688] 2021.02.08 функции.exe" завершилась с кодом 0 (0x0).
